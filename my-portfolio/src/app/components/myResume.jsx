@@ -1,7 +1,5 @@
-import React from "react";
-
-const myResume = () => {
-  return <div>myResume</div>;
+const MyResume = () => {
+  return <div>MyResume</div>;
 };
 
-export default myResume;
+export default MyResume;

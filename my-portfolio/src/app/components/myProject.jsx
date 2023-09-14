@@ -1,7 +1,5 @@
-import React from "react";
-
-const myProject = () => {
-  return <div>myProject</div>;
+const MyProject = () => {
+  return <div>MyProject</div>;
 };
 
-export default myProject;
+export default MyProject;

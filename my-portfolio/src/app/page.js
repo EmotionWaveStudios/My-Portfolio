@@ -1,7 +1,10 @@
+import Navbar from "./components/Navbar";
+
 const Home = () => {
   return (
-    <div className="">
-      <div className=""></div>
+    <div className="bg-[#212428]">
+      <Navbar />
+      <hr />
     </div>
   );
 };
