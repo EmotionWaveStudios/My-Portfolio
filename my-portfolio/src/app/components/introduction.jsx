@@ -1,7 +1,7 @@
 const Introduction = () => {
   return (
-    <div className="pt-[50px]">
-      <div>
+    <div className="pt-[100px] w-[90%] mx-auto flex">
+      <div className="w-[50%]">
         <h3>WELCOME TO MY WORLD</h3>
         <h1>Hi, I'm Mzwandile Nkohla</h1>
         <div>
@@ -12,7 +12,7 @@ const Introduction = () => {
             a <span>Game Developer</span>
           </h2>
           <h2>
-            a <span>Story Nnd Animation Enthusiast</span>
+            a <span>Story And Animation Enthusiast</span>
           </h2>
         </div>
 
