@@ -1,6 +1,6 @@
 const WhatIDo = () => {
   return (
-    <div>
+    <div className="pt-[150px]">
       <div id="block">
         <img src="" alt="" />
         <h2>Business Strategy</h2>

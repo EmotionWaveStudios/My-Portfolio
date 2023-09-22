@@ -1,5 +1,6 @@
 import Navbar from "./components/Navbar";
 import Introduction from "./components/Introduction";
+import WhatIDo from "./components/WhatIDo";
 
 const Home = () => {
   return (
@@ -7,6 +8,7 @@ const Home = () => {
       <div className="w-[97%] mx-auto">
         <Navbar />
         <Introduction />
+        <WhatIDo />
       </div>
     </div>
   );
