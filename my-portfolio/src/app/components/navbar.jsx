@@ -1,6 +1,7 @@
+
 const Navbar = () => {
   return (
-    <div className="fixed w-[97%] border-b-[1px] border-[#949BA7] flex justify-between">
+    <div className="fixed w-[97%] border-b-[1px] border-[#949BA7] flex justify-between bg-[#212428]">
       <div className="flex">
         <img
           src="Portfolios\My-Portfolio\my-portfolio\public\images\ColorLogoIcon.png"

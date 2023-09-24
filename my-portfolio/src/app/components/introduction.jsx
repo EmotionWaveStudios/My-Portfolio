@@ -39,13 +39,13 @@ const Introduction = () => {
             <p className="py-6 text-lg">FIND ME IN</p>
 
             <div className="flex gap-3">
-              <div className="text-[30px] p-4 rounded-lg shadow-md shadow-white hover:text-[#FF014F]">
+              <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
                 <BiLogoLinkedin />
               </div>
-              <div className="text-[30px] p-4 rounded-lg shadow-md shadow-white hover:text-[#FF014F]">
+              <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
                 <BiLogoFacebook />
               </div>
-              <div className="text-[30px] p-4 rounded-lg shadow-md shadow-white hover:text-[#FF014F]">
+              <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
                 <AiOutlineTwitter />
               </div>
             </div>
@@ -55,16 +55,16 @@ const Introduction = () => {
             <p className="py-6 text-lg">MOSTLY SKILLED IN</p>
 
             <div className="flex gap-3">
-              <div className="text-[30px] p-4 rounded-lg shadow-md shadow-white hover:text-[#FF014F]">
+              <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
                 <FaReact />
               </div>
-              <div className="text-[30px] p-4 rounded-lg shadow-md shadow-white hover:text-[#FF014F]">
+              <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
                 <TbBrandNextjs />
               </div>
-              <div className="text-[30px] p-4 rounded-lg shadow-md shadow-white hover:text-[#FF014F]">
+              <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
                 <SiTailwindcss />
               </div>
-              <div className="text-[30px] p-4 rounded-lg shadow-md shadow-white hover:text-[#FF014F]">
+              <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
                 <AiFillHtml5 />
               </div>
             </div>
