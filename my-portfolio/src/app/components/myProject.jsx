@@ -1,7 +1,7 @@
 const MyProject = () => {
   return (
-    <div>
-      <h1>My projects</h1>
+    <div className="pb-[100px] w-[90%] mx-auto">
+      <h1 className="text-[#FF014F] text-5xl pb-[50px]">My projects</h1>
     </div>
   );
 };

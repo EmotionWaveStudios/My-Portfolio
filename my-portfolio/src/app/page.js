@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Introduction from "./components/Introduction";
 import WhatIDo from "./components/WhatIDo";
+import MyProject from "./components/MyProject";
 
 const Home = () => {
   return (
@@ -9,6 +10,7 @@ const Home = () => {
         <Navbar />
         <Introduction />
         <WhatIDo />
+        <MyProject />
       </div>
     </div>
   );

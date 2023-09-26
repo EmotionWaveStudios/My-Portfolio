@@ -1,6 +1,6 @@
 const WhatIDo = () => {
   return (
-    <div className="pt-[50px] w-[90%] mx-auto ">
+    <div className="pt-[50px] w-[90%] mx-auto">
       <hr className="my-[50px]" />
       <h1 className="text-[#FF014F] text-5xl pb-[50px]">What I Do</h1>
 
