@@ -40,13 +40,13 @@ const Introduction = () => {
 
             <div className="flex gap-3">
               <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
-                <BiLogoLinkedin />
+                <a href="https://www.linkedin.com/in/mzwandile-nkohla-948363214/"><BiLogoLinkedin /></a>
               </div>
               <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
                 <BiLogoFacebook />
               </div>
               <div className="text-[30px] p-4 rounded-lg shadow-xl shadow-[#33363a] hover:text-[#FF014F]">
-                <AiOutlineTwitter />
+                <a href="https://twitter.com/EmWaveStudios"><AiOutlineTwitter /></a>
               </div>
             </div>
           </div>
