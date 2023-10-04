@@ -2,6 +2,8 @@ import Navbar from "./components/Navbar";
 import Introduction from "./components/Introduction";
 import WhatIDo from "./components/WhatIDo";
 import MyProject from "./components/MyProject";
+import MyResume from "./components/MyResume";
+import Footer from "./components/Footer";
 
 const Home = () => {
   return (
